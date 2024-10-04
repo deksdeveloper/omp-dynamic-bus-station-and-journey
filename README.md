@@ -8,11 +8,11 @@
 - [zcmd](https://github.com/Southclaws/zcmd)
 
 ## Database
-[stations.sql](https://github.com/deksdeveloper/omp-dynamic-bus-station-and-journey/stations.sql)
+[stations.sql](https://github.com/deksdeveloper/omp-dynamic-bus-station-and-journey/blob/main/stations.sql)
 
 ## Video/Screenshots
 - https://www.youtube.com/watch?v=d3mOd0tJYow
 
 ## Note
-- To run for SA-MP [station.pwn > 1. line](https://github.com/deksdeveloper/omp-dynamic-bus-station-and-journey/station.pwn#L1)
+- To run for SA-MP [station.pwn > 1. line](https://github.com/deksdeveloper/omp-dynamic-bus-station-and-journey/blob/main/station.pwn#L1)
 Just go to the line and change the "open.mp" library to: "a_samp".
